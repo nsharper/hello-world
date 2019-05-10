@@ -1,6 +1,0 @@
-Step 1: create deleted.txt
-Step 2: commit and push it to the repository
-Step 3: add it to '.gitignore'
-Step 4: change the file
-Step 5: commit push the changes
-Step 6: delete it locally
