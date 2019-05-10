@@ -2,6 +2,7 @@
 *.log
 data.txt
 bigfile.txt
+deleted.txt
 
 # .gitignore does not work if a file is added to its list after it has already
 # been placed within the repository.
